@@ -1,0 +1,607 @@
+[
+  {
+    "name": "Egg McMuffin®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202004_0046_EggMcMuffin_1564x1564-1:nutrition-calculator-tile",
+    "filename": "egg_mcmuffin.jpg"
+  },
+  {
+    "name": "Sausage Burrito",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0334_SausageBurrito_Alt_McValueRegistered_1564x1564:nutrition-calculator-tile",
+    "filename": "sausage_burrito.jpg"
+  },
+  {
+    "name": "McCafé® Iced Coffee",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1212_MediumIcedCoffee_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+    "filename": "mccafé_iced_coffee.jpg"
+  },
+  {
+    "name": "Big Mac®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0005-999_BigMac_1564x1564-1:nutrition-calculator-tile",
+    "filename": "big_mac.jpg"
+  },
+  {
+    "name": "4 Piece Chicken McNuggets®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202502_0483_4McNuggets_Stacked_McValueRegistered_1564x1564:nutrition-calculator-tile",
+    "filename": "4_piece_chicken_mcnuggets.jpg"
+  },
+  {
+    "name": "Ranch Snack Wrap®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202504_25254_RanchSnackWrap_1564x1564:nutrition-calculator-tile",
+    "filename": "ranch_snack_wrap.jpg"
+  },
+  {
+    "name": "Quarter Pounder®* with Cheese",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_1564x1564-1:nutrition-calculator-tile",
+    "filename": "quarter_pounder*_with_cheese.jpg"
+  },
+  {
+    "name": "McCrispy®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0383_CrispyChickenSandwich_PotatoBun_1564x1564-1:nutrition-calculator-tile",
+    "filename": "mccrispy.jpg"
+  },
+  {
+    "name": "Bacon, Egg &amp; Cheese Biscuit",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202405_0085_BaconEggCheeseBiscuit_1564x1564-1:nutrition-calculator-tile",
+    "filename": "bacon,_egg_&amp;_cheese_biscuit.jpg"
+  },
+  {
+    "name": "Egg McMuffin®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202004_0046_EggMcMuffin_1564x1564-1:nutrition-calculator-tile",
+    "filename": "egg_mcmuffin.jpg"
+  },
+  {
+    "name": "Sausage McMuffin®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0078_SausageMcMuffin_McValueRegistered_1564x1564:nutrition-calculator-tile",
+    "filename": "sausage_mcmuffin.jpg"
+  },
+  {
+    "name": "Sausage McMuffin® with Egg",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0083_SausageEggMcMuffin_1564x1564-1:nutrition-calculator-tile",
+    "filename": "sausage_mcmuffin_with_egg.jpg"
+  },
+  {
+    "name": "Sausage Biscuit",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0062_SausageBiscuit_McValueRegistered_1564x1564:nutrition-calculator-tile",
+    "filename": "sausage_biscuit.jpg"
+  },
+  {
+    "name": "Sausage Biscuit with Egg",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0092_SausageEggBiscuit_1564x1564-1:nutrition-calculator-tile",
+    "filename": "sausage_biscuit_with_egg.jpg"
+  },
+  {
+    "name": "Bacon, Egg &amp; Cheese McGriddles®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201908_9839_BEC_McGriddle_1564x1564-1:nutrition-calculator-tile",
+    "filename": "bacon,_egg_&amp;_cheese_mcgriddles.jpg"
+  },
+  {
+    "name": "Sausage McGriddles®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201911_6110_SausageMcGriddle_1564x1564-1:nutrition-calculator-tile",
+    "filename": "sausage_mcgriddles.jpg"
+  },
+  {
+    "name": "Sausage, Egg &amp; Cheese McGriddles®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_9841_SausageEggCheeseMcGriddle_1564x1564-2:nutrition-calculator-tile",
+    "filename": "sausage,_egg_&amp;_cheese_mcgriddles.jpg"
+  },
+  {
+    "name": "Bacon, Egg &amp; Cheese Bagel",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202103_1603_BaconEggCheeseBagel_1564x1564-1:nutrition-calculator-tile",
+    "filename": "bacon,_egg_&amp;_cheese_bagel.jpg"
+  },
+  {
+    "name": "Sausage, Egg &amp; Cheese Bagel",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202403_1604_SausageEggCheeseBagel_1564x1564-1:nutrition-calculator-tile",
+    "filename": "sausage,_egg_&amp;_cheese_bagel.jpg"
+  },
+  {
+    "name": "Steak, Egg &amp; Cheese Bagel",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202103_5918_SteakEggCheeseBagel_1564x1564-1:nutrition-calculator-tile",
+    "filename": "steak,_egg_&amp;_cheese_bagel.jpg"
+  },
+  {
+    "name": "Bagel (plain)",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201909_5428_PlainBagel_1564x1564-1:nutrition-calculator-tile",
+    "filename": "bagel_(plain).jpg"
+  },
+  {
+    "name": "Egg and Cheese Bagel",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202410_4210_EggCheeseBagel_1564x1564:nutrition-calculator-tile",
+    "filename": "egg_and_cheese_bagel.jpg"
+  },
+  {
+    "name": "Big Breakfast®",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202405_0107_BigBreakfast._1564x1564-1:nutrition-calculator-tile",
+    "filename": "big_breakfast.jpg"
+  },
+  {
+    "name": "Big Breakfast® with Hotcakes",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202208_3590_BigBreakfast_HotCakes_1564x1564-1:nutrition-calculator-tile",
+    "filename": "big_breakfast_with_hotcakes.jpg"
+  },
+  {
+    "name": "Hotcakes",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202405_0031_3HotCakes_1564x1564-1:nutrition-calculator-tile",
+    "filename": "hotcakes.jpg"
+  },
+  {
+    "name": "Hotcakes and Sausage",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202405_0032_3HotCakes_Sausage_1564x1564-1:nutrition-calculator-tile",
+    "filename": "hotcakes_and_sausage.jpg"
+  },
+  {
+    "name": "Sausage Burrito",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0334_SausageBurrito_Alt_McValueRegistered_1564x1564:nutrition-calculator-tile",
+    "filename": "sausage_burrito.jpg"
+  },
+  {
+    "name": "Hash Browns",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0035_HashBrowns_Upright_McValueRegistered_1564x1564:nutrition-calculator-tile",
+    "filename": "hash_browns.jpg"
+  },
+  {
+    "name": "Fruit &amp; Maple Oatmeal",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_1500_Oatmeal_Fruit_1564x1564-1:nutrition-calculator-tile",
+    "filename": "fruit_&amp;_maple_oatmeal.jpg"
+  },
+  {
+    "name": "Egg McMuffin® Meal",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202007_0252_EVM_HB_EggMcMuffin_Coffee_Glass_1564x1564-1:nutrition-calculator-tile",
+    "filename": "egg_mcmuffin_meal.jpg"
+  },
+  {
+    "name": "Sausage McMuffin® with Egg Meal",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202008_3655_EVM_HB_SausageEggMcMuffin_Coffee_Glass_1564x1564-1:nutrition-calculator-tile",
+    "filename": "sausage_mcmuffin_with_egg_meal.jpg"
+  },
+  {
+    "name": "Sausage Biscuit with Egg Meal",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202007_0251_EVM_HB_SausageEggBiscuit_Coffee_Glass_1564x1564-1:nutrition-calculator-tile",
+    "filename": "sausage_biscuit_with_egg_meal.jpg"
+  },
+  {
+    "name": "Bacon, Egg &amp; Cheese Biscuit Meal",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202104_0250_EVM_HB_BaconEggCheeseBiscuit_Coffee_Glass_1564x1564-1:nutrition-calculator-tile",
+    "filename": "bacon,_egg_&amp;_cheese_biscuit_meal.jpg"
+  },
+  {
+    "name": "Bacon, Egg &amp; Cheese McGriddles® Meal",
+    "url": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202008_9840_EVM_HB_BaconEggCheeseMcGriddle_Coffee_Glass_1564x1564-1:nutrition-calculator-tile",
+    "filename": "bacon,_egg_&amp;_cheese_mcgriddles_meal.jpg"
+  },
+  {
+    "name": "Sausage, Egg &amp; Cheese McGriddles® Mealhttps://s7d1.scene7.com/is/image/mcdonalds/DC_202008_9842_EVM_HB_SausageEggCheeseMcGriddle_Coffee_Glass_1564x1564-1:nutrition-calculator-tile",
+    "url": "sausage,_egg_&amp;_cheese_mcgriddles_meal.jpg",
+    "filename": "Sausage McGriddles® Meal"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202211_6116_EVM_HB_SausageMcGriddle_Coffee_Glass_1564x1564-1:nutrition-calculator-tile",
+    "url": "sausage_mcgriddles_meal.jpg",
+    "filename": "Sausage Burrito Meal"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202008_5093_EVM_HB_2SausageBurrito_Coffee_Glass_1564x1564-1:nutrition-calculator-tile",
+    "url": "sausage_burrito_meal.jpg",
+    "filename": "Big Mac®"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0005-999_BigMac_1564x1564-1:nutrition-calculator-tile",
+    "url": "big_mac.jpg",
+    "filename": "Quarter Pounder®* with Cheese"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_1564x1564-1:nutrition-calculator-tile",
+    "url": "quarter_pounder*_with_cheese.jpg",
+    "filename": "Double Quarter Pounder®* with Cheese"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_3426-005_DoubleQuarterPounderwithCheese_1564x1564-1:nutrition-calculator-tile",
+    "url": "double_quarter_pounder*_with_cheese.jpg",
+    "filename": "Quarter Pounder®* with Cheese Deluxe"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202309_4282_QuarterPounderCheeseDeluxe_Shredded_1564x1564-1:nutrition-calculator-tile",
+    "url": "quarter_pounder*_with_cheese_deluxe.jpg",
+    "filename": "McDouble®"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0592-999_McDouble_Alt_1564x1564-1:nutrition-calculator-tile",
+    "url": "mcdouble.jpg",
+    "filename": "Daily Double"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_5101-999_DailyDouble_1564x1564-1:nutrition-calculator-tile",
+    "url": "daily_double.jpg",
+    "filename": "Bacon Quarter Pounder®* with Cheese"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_4295-005_BaconQPC_1564x1564-1:nutrition-calculator-tile",
+    "url": "bacon_quarter_pounder*_with_cheese.jpg",
+    "filename": "Cheeseburger"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202502_0003-999_CheeseburgerAlt_McValueRegistered_1564x1564:nutrition-calculator-tile",
+    "url": "cheeseburger.jpg",
+    "filename": "Double Cheeseburger"
+  },
+  {
+    "name": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0004-999_DoubleCheeseburger_Alt_McValueRegistered_1564x1564:nutrition-calculator-tile",
+    "url": "double_cheeseburger.jpg",
+    "filename": "Hamburger: The Classic McDonald&#39;s Burgerhttps://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0001-999_Hamburger_Alt_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "hamburger:_the_classic_mcdonald&#39;s_burger.jpg",
+    "url": "McCrispy®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0383_CrispyChickenSandwich_PotatoBun_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccrispy.jpg",
+    "url": "Deluxe McCrispy®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0370_DeluxeCrispyChicken_PotatoBun_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "deluxe_mccrispy.jpg",
+    "url": "Spicy McCrispy®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0116_SpicyCrispyChicken_PotatoBun_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "spicy_mccrispy.jpg",
+    "url": "Spicy Deluxe McCrispy®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202104_0100_DeluxeSpicyCrispyChickenSandwich_PotatoBun_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "spicy_deluxe_mccrispy.jpg",
+    "url": "Filet-O-Fish®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_5926-999_Filet-O-Fish_HalfSlice_Alt_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "filet-o-fish.jpg",
+    "url": "McChicken®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_4314-999_McChicken_McValueRegistered_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "mcchicken.jpg",
+    "url": "4 Piece Chicken McNuggets®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202502_0483_4McNuggets_Stacked_McValueRegistered_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "4_piece_chicken_mcnuggets.jpg",
+    "url": "McCrispy® Strips",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202504_25157_3PieceMcCrispyStrips_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccrispy_strips.jpg",
+    "url": "Small World Famous Fries®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_6050_SmallFrenchFries_Standing_McValueRegistered_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "small_world_famous_fries.jpg",
+    "url": "Apple Slices",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_2794_AppleSlices_NoBag_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "apple_slices.jpg",
+    "url": "Hamburger Happy Meal®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_6975_HamburgerHappyMeal_AppleSlices_WhiteMilkJug_Left_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "hamburger_happy_meal.jpg",
+    "url": "4 Piece McNuggets® Happy Meal®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202103_7002_4McNuggetsHappyMeal_AppleSlices_WhiteMilkJug_Left_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "4_piece_mcnuggets_happy_meal.jpg",
+    "url": "6 Piece McNuggets® Happy Meal®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202103_7780_6McNuggetsHappyMeal_AppleSlices_WhiteMilkJug_Left_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "6_piece_mcnuggets_happy_meal.jpg",
+    "url": "McCafé® Caramel Macchiato",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2804_MediumCaramelMacchiato_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_caramel_macchiato.jpg",
+    "url": "McCafé® Cappuccino",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2692_MediumCappuccino_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_cappuccino.jpg",
+    "url": "McCafé® Caramel Cappuccino",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1517_MediumCaramelCappuccino_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_caramel_cappuccino.jpg",
+    "url": "McCafé® French Vanilla Cappuccino",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1372_MediumVanillaCappuccino_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_french_vanilla_cappuccino.jpg",
+    "url": "McCafé® Mocha Latte",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2731_MediumMocha_Glass_A1_HL_832x472:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_mocha_latte.jpg",
+    "url": "Americano",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1318_MediumAmericano_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "americano.jpg",
+    "url": "McCafé® Premium Roast Coffee",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_0321_MediumCoffee_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_premium_roast_coffee.jpg",
+    "url": "McCafé® Iced Caramel Macchiato",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2743_MediumIcedCaramelMacchiato_Glass_A1_832x472:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_iced_caramel_macchiato.jpg",
+    "url": "McCafé® Iced Mocha Latte",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_7659_MediumIcedMocha_Glass_A1_832x472:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_iced_mocha_latte.jpg",
+    "url": "McCafé® Iced Coffee",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1212_MediumIcedCoffee_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_iced_coffee.jpg",
+    "url": "McCafé® Iced Caramel Coffee",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1207_MediumIcedCaramelCoffee_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_iced_caramel_coffee.jpg",
+    "url": "McCafé® Iced French Vanilla Coffee",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1216_MediumIcedFrenchVanillaCoffee_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_iced_french_vanilla_coffee.jpg",
+    "url": "McCafé® Latte",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2698_MediumLatte_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_latte.jpg",
+    "url": "McCafé® Iced Latte",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_7606_MediumIcedLatte_Glass_A1_832x472:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_iced_latte.jpg",
+    "url": "McCafé® Caramel Latte",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1324_MediumCaramelLatte_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_caramel_latte.jpg",
+    "url": "McCafé® Iced Caramel Latte",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_0379_MediumIcedCaramelLatte_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_iced_caramel_latte.jpg",
+    "url": "McCafé® French Vanilla Latte",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1331_MediumFrenchVanillaLatte_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_french_vanilla_latte.jpg",
+    "url": "McCafé® Iced French Vanilla Latte",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_0187_MediumIcedFrenchVanillaLatte_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_iced_french_vanilla_latte.jpg",
+    "url": "McCafé® Caramel Frappé",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2842_MediumCaramelFrappe_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_caramel_frappé.jpg",
+    "url": "McCafé® Mocha Frappé",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_3491_MediumMochaFrappe_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_mocha_frappé.jpg",
+    "url": "Shamrock Shake®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_3780_MediumShamrockShake_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "shamrock_shake.jpg",
+    "url": "OREO® Shamrock McFlurry®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0601_OreoMintMcFlurry_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "oreo_shamrock_mcflurry.jpg",
+    "url": "McFlurry® with OREO® Cookies",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202002_3832_OREOMcFlurry_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mcflurry_with_oreo_cookies.jpg",
+    "url": "McFlurry® with M&amp;M&#39;S® Candies",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202505_3830_MandMMcFlurry_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "mcflurry_with_m&amp;m&#39;s_candies.jpg",
+    "url": "Vanilla Cone",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202106_0336_LargeVanillaCone_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "vanilla_cone.jpg",
+    "url": "Chocolate Shake",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1509_MediumChocolateShake_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "chocolate_shake.jpg",
+    "url": "Vanilla Shake",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1598_MediumVanillaShake_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "vanilla_shake.jpg",
+    "url": "Strawberry Shake",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_1513_MediumStrawberryShake_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "strawberry_shake.jpg",
+    "url": "Hot Fudge Sundae",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0337_HotFudgeSundae_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "hot_fudge_sundae.jpg",
+    "url": "Hot Caramel Sundae",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201907_0345_CaramelSundae_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "hot_caramel_sundae.jpg",
+    "url": "Baked Apple Pie",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202004_0706_BakedApplePie_Broken_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "baked_apple_pie.jpg",
+    "url": "Chocolate Chip Cookie",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202211_1852_ChocolateChipCookie_Upright_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "chocolate_chip_cookie.jpg",
+    "url": "Coca-Cola®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202402_0521_MediumCoke_ContourGlassv1_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "coca-cola.jpg",
+    "url": "Sprite®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202212_0721_MediumSprite_Glass_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "sprite.jpg",
+    "url": "Dr Pepper®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201905_0421_MediumDrPepper_Glass_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "dr_pepper.jpg",
+    "url": "Fanta® Orange",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202212_1262_MediumFantaOrange_Glass_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "fanta_orange.jpg",
+    "url": "Diet Coke®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202112_0652_MediumDietCoke_Glass_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "diet_coke.jpg",
+    "url": "Hi-C® Orange Lavaburst®",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0621_MediumHi-COrange_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "hi-c_orange_lavaburst.jpg",
+    "url": "Frozen Fanta® Blue Raspberry",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202301_7959_MediumFrozenFantaBlueRaspberry_Glass_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "frozen_fanta_blue_raspberry.jpg",
+    "url": "Frozen Coca-Cola® Classic",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202301_7963_MediumFrozenCocaColaClassic_Glass_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "frozen_coca-cola_classic.jpg",
+    "url": "Strawberry Banana Smoothie",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2725_MediumStrawberryBananaSmoothie_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "strawberry_banana_smoothie.jpg",
+    "url": "Mango Pineapple Smoothie",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2790_MediumMangoPineappleSmoothie_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mango_pineapple_smoothie.jpg",
+    "url": "Lemonade",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202511_14878_Medium_SignatureLemonade_1564x1564v2:nutrition-calculator-tile"
+  },
+  {
+    "name": "lemonade.jpg",
+    "url": "Sweet Tea",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202105_3429_SweetTea_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "sweet_tea.jpg",
+    "url": "Unsweetened Iced Tea",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201909_9449_UnsweetTea_Glass_A1_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "unsweetened_iced_tea.jpg",
+    "url": "Hot Tea",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_0573_MediumHotTea_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "hot_tea.jpg",
+    "url": "Minute Maid® Premium Orange Juice",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/Header_MediumMinuteMaidPremiumOrangeJuice_832x472:nutrition-calculator-tile"
+  },
+  {
+    "name": "minute_maid_premium_orange_juice.jpg",
+    "url": "Honest Kids® Appley Ever After® Organic Juice Drink",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202008_0322_HonestKidsAppleJuice_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "honest_kids_appley_ever_after_organic_juice_drink.jp",
+    "url": "1% Low Fat Milk Jug",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202103_0066_MilkJug_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "1%_low_fat_milk_jug.jpg",
+    "url": "Reduced Sugar^ Low Fat Chocolate Milk Jug",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202103_3179_ReducedSugarLowFatChocolateMilk_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "reduced_sugar^_low_fat_chocolate_milk_jug.jpg",
+    "url": "McCafé® Hot Chocolate",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1697_MediumPremiumHotChocolate_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mccafé_hot_chocolate.jpg",
+    "url": "DASANI® Water",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202402_5474_DasaniBottledWater_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "dasani_water.jpg",
+    "url": "Creamy Chili McCrispy® Strip Dip",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202504_03248-072__25195_CreamyChiliSauce_1564x1564:nutrition-calculator-tile"
+  },
+  {
+    "name": "creamy_chili_mccrispy_strip_dip.jpg",
+    "url": "Tangy Barbeque Sauce",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202312_00408-144__0900_TangyBBQ_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "tangy_barbeque_sauce.jpg",
+    "url": "Spicy Buffalo Sauce",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_07812-045__9089_SpicyBuffalo_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "spicy_buffalo_sauce.jpg",
+    "url": "Creamy Ranch Sauce",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_02861-036__0922_CreamyRanch_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "creamy_ranch_sauce.jpg",
+    "url": "Honey Mustard Sauce",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_08731-024__9088_HoneyMustard_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "honey_mustard_sauce.jpg",
+    "url": "Sweet &#39;N Sour Sauce",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_00409-120__0901_SweetNSour_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "sweet_&#39;n_sour_sauce.jpg",
+    "url": "Ketchup Packet",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_02679-243__0912_Ketchup_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "ketchup_packet.jpg",
+    "url": "Mayonnaise Packet",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_11668-000__9008_Mayonnaise_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mayonnaise_packet.jpg",
+    "url": "Mustard Packet",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_00046-048__9004_Mustard_1564x1564-1:nutrition-calculator-tile"
+  },
+  {
+    "name": "mustard_packet.jpg",
+    "url": "Honey",
+    "filename": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202312_00411-012__0902_Honey_1564x1564-1:nutrition-calculator-tile"
+  }
+]

@@ -20,6 +20,7 @@ import Animated, {
   withSpring
 } from 'react-native-reanimated';
 import { SafeAreaProvider, useSafeAreaInsets } from 'react-native-safe-area-context';
+import { catalog } from '../../constants/catalog';
 
 // --- CONFIGURATION DU SPLIT VIEW ---
 const MIN_HEADER_HEIGHT = 180;
@@ -30,56 +31,7 @@ const SPRING_CONFIG = { damping: 20, stiffness: 200, mass: 0.5 };
 // --- DONNÉES (CATALOGUE) ---
 const TAX_RATE = 0.10;
 
-const catalog = [
-  {
-    id: "egg-mcmuffin",
-    name: "Egg McMuffin®",
-    priceTTC: 4.50,
-    img: "https://s7d1.scene7.com/is/image/mcdonalds/DC_202004_0046_EggMcMuffin_1564x1564-1:nutrition-calculator-tile"
-  },
-  {
-    id: "sausage-burrito",
-    name: "Sausage Burrito",
-    priceTTC: 3.90,
-    img: "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_0334_SausageBurrito_Alt_McValueRegistered_1564x1564:nutrition-calculator-tile"
-  },
-  {
-    id: "iced-coffee",
-    name: "McCafé® Iced Coffee",
-    priceTTC: 3.20,
-    img: "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1212_MediumIcedCoffee_Glass_A1_1564x1564-1:nutrition-calculator-tile"
-  },
-  {
-    id: "big-mac",
-    name: "Big Mac®",
-    priceTTC: 6.20,
-    img: "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0005-999_BigMac_1564x1564-1:nutrition-calculator-tile"
-  },
-  {
-    id: "mcnuggets-4",
-    name: "4 Piece Chicken McNuggets®",
-    priceTTC: 4.80,
-    img: "https://s7d1.scene7.com/is/image/mcdonalds/DC_202502_0483_4McNuggets_Stacked_McValueRegistered_1564x1564:nutrition-calculator-tile"
-  },
-  {
-    id: "ranch-snack-wrap",
-    name: "Ranch Snack Wrap®",
-    priceTTC: 3.50,
-    img: "https://s7d1.scene7.com/is/image/mcdonalds/DC_202504_25254_RanchSnackWrap_1564x1564:nutrition-calculator-tile"
-  },
-  {
-    id: "quarter-pounder",
-    name: "Quarter Pounder®",
-    priceTTC: 7.10,
-    img: "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_1564x1564-1:nutrition-calculator-tile"
-  },
-  {
-    id: "mccrispy",
-    name: "McCrispy®",
-    priceTTC: 5.90,
-    img: "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0383_CrispyChickenSandwich_PotatoBun_1564x1564-1:nutrition-calculator-tile"
-  },
-];
+
 
 const fmt = (n: number) => {
   return n.toFixed(2).replace('.', ',') + ' €';
